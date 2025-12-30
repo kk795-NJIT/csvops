@@ -1,0 +1,6 @@
+email,firstname,lastname,company,phone,jobtitle,lifecyclestage
+john.smith@acme.com,John,Smith,Acme Corporation,+1-555-0101,Sales Manager,lead
+sarah.jones@techcorp.io,Sarah,Jones,TechCorp,+1-555-0102,VP Marketing,opportunity
+mike.wilson@startup.co,Mike,Wilson,Startup Inc,+1-555-0103,Founder,customer
+lisa.brown@bigco.com,Lisa,Brown,BigCo Industries,+1-555-0104,Director,subscriber
+david.lee@agency.com,David,Lee,Digital Agency,+1-555-0105,Account Executive,lead

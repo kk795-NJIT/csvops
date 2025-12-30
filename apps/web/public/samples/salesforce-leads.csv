@@ -1,0 +1,6 @@
+Email,FirstName,LastName,Company,Title,Phone,LeadSource,Status
+alice@enterprise.com,Alice,Johnson,Enterprise Corp,CTO,+1-555-1001,Web,Open
+bob@midmarket.io,Bob,Martinez,MidMarket Inc,VP Sales,+1-555-1002,Referral,Contacted
+carol@smb.co,Carol,Williams,SMB Solutions,Owner,+1-555-1003,Partner,Qualified
+dan@tech.com,Dan,Anderson,Tech Systems,Director,+1-555-1004,Trade Show,Open
+eva@growth.io,Eva,Thompson,Growth Labs,Head of Ops,+1-555-1005,Inbound,Contacted

@@ -1,0 +1,6 @@
+email,first_name,subscribed_at,source,tags
+newsletter1@example.com,Alex,2024-01-15,Website Popup,new-subscriber
+newsletter2@example.com,Jordan,2024-02-20,Blog Post,tech;early-adopter
+newsletter3@example.com,Taylor,2024-03-10,Referral,marketing
+newsletter4@example.com,Morgan,2024-04-05,Social Media,engaged
+newsletter5@example.com,Casey,2024-05-22,Landing Page,product-updates

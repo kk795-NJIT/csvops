@@ -1,0 +1,6 @@
+sku,name,description,price,quantity,category
+PROD-001,Wireless Mouse,Ergonomic wireless mouse with USB receiver,29.99,150,Electronics
+PROD-002,Mechanical Keyboard,RGB mechanical keyboard with Cherry MX switches,89.99,75,Electronics
+PROD-003,USB-C Hub,7-in-1 USB-C hub with HDMI and card reader,45.99,200,Accessories
+PROD-004,Monitor Stand,Aluminum monitor stand with storage drawer,59.99,50,Office
+PROD-005,Webcam HD,1080p webcam with built-in microphone,69.99,100,Electronics

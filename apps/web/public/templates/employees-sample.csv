@@ -1,0 +1,6 @@
+email,first_name,last_name,department,job_title,manager_email,start_date
+john.dev@company.com,John,Developer,Engineering,Senior Developer,jane.lead@company.com,2023-01-15
+jane.lead@company.com,Jane,Lead,Engineering,Tech Lead,mike.vp@company.com,2022-06-01
+mike.vp@company.com,Mike,VP,Engineering,VP of Engineering,,2021-03-10
+sarah.pm@company.com,Sarah,Manager,Product,Product Manager,lisa.cpo@company.com,2023-04-20
+tom.design@company.com,Tom,Designer,Design,UI Designer,sarah.pm@company.com,2024-02-01

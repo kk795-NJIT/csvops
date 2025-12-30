@@ -1,0 +1,6 @@
+email,name,event_name,ticket_type,registration_date,checked_in
+attendee1@example.com,Alice Smith,Tech Conference 2024,VIP,2024-11-01,yes
+attendee2@example.com,Bob Johnson,Tech Conference 2024,General,2024-11-05,yes
+attendee3@example.com,Carol Williams,Tech Conference 2024,Student,2024-11-10,no
+attendee4@example.com,Dan Brown,Tech Conference 2024,VIP,2024-11-12,yes
+attendee5@example.com,Emma Davis,Tech Conference 2024,General,2024-11-15,no

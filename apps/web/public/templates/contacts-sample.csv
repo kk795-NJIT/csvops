@@ -1,0 +1,6 @@
+email,first_name,last_name,phone,address,city,country,notes
+alice@example.com,Alice,Johnson,+1-555-1001,123 Main St,New York,USA,VIP customer
+bob@example.com,Bob,Williams,+1-555-1002,456 Oak Ave,Los Angeles,USA,Prefers email
+carol@example.com,Carol,Davis,+44-20-7946-0958,10 Downing St,London,UK,International
+dan@example.com,Dan,Miller,+1-555-1003,789 Pine Rd,Chicago,USA,New customer
+emma@example.com,Emma,Garcia,+1-555-1004,321 Elm Way,Miami,USA,Referred by Alice

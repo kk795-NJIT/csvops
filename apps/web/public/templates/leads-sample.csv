@@ -1,0 +1,6 @@
+email,first_name,last_name,company,job_title,phone,source
+john.doe@acme.com,John,Doe,Acme Corp,Sales Manager,+1-555-0101,LinkedIn
+jane.smith@globex.io,Jane,Smith,Globex Industries,VP Marketing,+1-555-0102,Website
+mike.wilson@techstart.com,Mike,Wilson,TechStart,CTO,+1-555-0103,Referral
+sarah.jones@bigco.net,Sarah,Jones,BigCo,Director of Sales,+1-555-0104,Conference
+david.brown@startup.io,David,Brown,Startup Inc,Founder,+1-555-0105,Cold Outreach

@@ -1,0 +1,21 @@
+email,first_name,last_name,company,phone,signup_date,amount
+john.doe@example.com,John,Doe,Acme Inc,555-1234,2024-01-15,1500.50
+jane.smith@company.org,Jane,Smith,Tech Corp,555-5678,2024-02-20,2300.00
+invalid.email,Bob,Johnson,StartupXYZ,555-9999,2024-03-10,750.25
+mary.wilson@test.com,Mary,Wilson,Enterprise LLC,,2024-04-05,3200.00
+,Mike,Brown,Small Biz,555-4444,invalid-date,1100.00
+david.lee@example.net,David,Lee,Global Inc,555-7777,2024-05-15,not-a-number
+sarah.jones@mail.com,Sarah,Jones,,555-8888,2024-06-20,890.50
+test@test.com,,Adams,Consulting Co,555-2222,2024-07-25,1650.75
+emily.davis@example.com,Emily,Davis,Media Group,555-3333,2024-08-30,2100.00
+broken-email-format,Chris,Taylor,Design Studio,555-6666,2024-09-15,975.25
+olivia.martin@company.com,Olivia,Martin,Finance Corp,555-1111,2024-10-20,4500.00
+,,,,,2024-11-25,
+james.white@example.org,James,White,Health Inc,555-9876,2024-12-01,1875.50
+lisa.anderson@test.net,Lisa,Anderson,Retail Co,555-5432,2025-01-10,2650.00
+michael.thomas@mail.org,Michael,Thomas,Education Ltd,555-8765,2025-02-15,1325.75
+@invalid,Rachel,Harris,Marketing Pro,555-4321,2025-03-20,3100.00
+kevin.clark@example.com,Kevin,Clark,Software Inc,555-6543,2025-04-25,1950.25
+amanda.lewis@company.net,Amanda,Lewis,Consulting Group,,2025-05-30,2400.00
+daniel.walker@test.org,Daniel,Walker,Research Lab,555-7654,2025-06-15,1750.50
+jennifer.hall@mail.com,Jennifer,Hall,Legal Firm,555-8901,2025-07-20,3350.00
