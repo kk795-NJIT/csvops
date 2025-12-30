@@ -37,13 +37,22 @@ allowed_origins = [
 frontend_url = os.getenv("FRONTEND_URL")
 if frontend_url:
     allowed_origins.append(frontend_url)
+    # Also add without trailing slash and with trailing slash
+    allowed_origins.append(frontend_url.rstrip("/"))
+    if not frontend_url.endswith("/"):
+        allowed_origins.append(frontend_url + "/")
+
+# In production, also allow all vercel preview URLs
+if os.getenv("ENVIRONMENT") == "production" or frontend_url:
+    allowed_origins.append("https://*.vercel.app")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allowed_origins,
+    allow_origins=["*"],  # Allow all origins for now to debug
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS", "PATCH"],
     allow_headers=["*"],
+    expose_headers=["*"],
 )
 
 # Include routers
